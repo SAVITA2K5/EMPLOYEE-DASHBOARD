@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "department": "IT",
+    "role": "Developer",
+    "salary": 60000,
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "department": "Design",
+    "role": "Designer",
+    "salary": 50000,
+    "status": "Active"
+  },
+  {
+    "id": 1767352049840,
+    "name": "Charlie A",
+    "department": "HR",
+    "role": "Manager",
+    "salary": 70000,
+    "status": "Active"
+  },
+  {
+    "id": 1767352072036,
+    "name": "Charlie",
+    "department": "HR",
+    "role": "Manager",
+    "salary": 70000,
+    "status": "Active"
+  }
+]
